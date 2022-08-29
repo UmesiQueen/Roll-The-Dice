@@ -12,13 +12,13 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 - [Author](#author)
 
 ## Overview
-  Angela introduces JavaScript and basic JS methods and functions
+  Angela introduces JavaScript and basic JS methods.
 
 ### Screenshot
  ![Alt text](images/Screenshot.png?raw=true)
 
 ### Links
-- View Live Site: [Click Here!]()
+- View Live Site: [Click Here!](https://umesiqueen.github.io/Roll-The-Dice/)
 
 ## My process
 
@@ -26,7 +26,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Java Script
+- JavaScript
 
 ## Author
 
